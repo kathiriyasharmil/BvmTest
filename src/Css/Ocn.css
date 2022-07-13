@@ -1,0 +1,73 @@
+.css-3k3yva-MuiInputBase-root-MuiInput-root:after {
+    border-bottom: none !important;
+    /*border-color: rgba(226, 232, 240, 0.6);*/
+    /*padding-left: 0.75rem;*/
+    /*padding-right: 0.75rem;*/
+    /*box-shadow: rgb(98, 143, 194) 0rem 0rem 0rem 0.125rem;*/
+    /*outline: 0px;*/
+}
+
+/*.css-3k3yva-MuiInputBase-root-MuiInput-root {*/
+/*    border-bottom: none !important;*/
+/*}*/
+
+.css-2g0jb5-MuiInputBase-root-MuiInput-root:before {
+    border-bottom: 1px solid rgba(255, 255, 255, 0) !important;
+}
+
+.css-2g0jb5-MuiInputBase-root-MuiInput-root:after {
+    border-bottom: none !important;
+}
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input:focus {
+    /*border: 1px solid rgb(255 255 255 / 82%) !important;*/
+    box-shadow: rgb(98, 143, 194) 0rem 0rem 0rem 0.125rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    /*padding-left: 15px;*/
+}
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input:focus {
+    border-bottom: 1px solid rgba(255, 255, 255, 0) !important;
+}
+
+.css-1w7t5fc-MuiInputBase-root-MuiInput-root:after {
+    border-bottom: none !important;
+}
+
+.css-1w7t5fc-MuiInputBase-root-MuiInput-root:before {
+    border-bottom: none !important;
+}
+
+.css-eglki6-MuiLinearProgress-root {
+    background-color: #2d2e5f !important;
+    border-radius: 25px;
+    height: 0.375rem !important;
+}
+
+.css-5xe99f-MuiLinearProgress-bar1 {
+    width: 100% !important;
+    position: absolute !important;
+    left: 0;
+    bottom: 0;
+    top: 0 !important;
+    -webkit-transition: -webkit-transform .4s linear !important;
+    transition: transform .4s linear !important;
+    transform-origin: left;
+    background-color: #0075ff !important;
+    transform: translateX(-40%) ;
+}
+
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    background-color: #fff0 !important;
+    box-shadow: none !important;
+}
+
+.css-1ex1afd-MuiTableCell-root {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.css-10i4f6y-MuiAvatarGroup-root .MuiAvatar-root {
+    border: 2px solid #0000!important;
+}
